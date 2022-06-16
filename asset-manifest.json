@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Orange_Dashboard/static/css/main.0ad8330b.css",
+    "main.js": "/Orange_Dashboard/static/js/main.f6665cbc.js",
+    "static/js/787.6c409be2.chunk.js": "/Orange_Dashboard/static/js/787.6c409be2.chunk.js",
+    "static/media/FiveMajorCrimes.csv": "/Orange_Dashboard/static/media/FiveMajorCrimes.f818fca3e5d32dbe670e.csv",
+    "index.html": "/Orange_Dashboard/index.html",
+    "main.0ad8330b.css.map": "/Orange_Dashboard/static/css/main.0ad8330b.css.map",
+    "main.f6665cbc.js.map": "/Orange_Dashboard/static/js/main.f6665cbc.js.map",
+    "787.6c409be2.chunk.js.map": "/Orange_Dashboard/static/js/787.6c409be2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ad8330b.css",
+    "static/js/main.f6665cbc.js"
+  ]
+}
